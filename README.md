@@ -5,7 +5,7 @@
 🌱 I’m currently learning Python <br>
 👯 I’m looking to collaborate on ... <br>
 📫 How to reach me:Linkedin link down below my bio <br>
-▶Youtube: Beliz Yazici
+
 
 
 

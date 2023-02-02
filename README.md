@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 
--🙋‍♀️ I'm @belizyazici
--🌱 I’m currently learning Python
--👯 I’m looking to collaborate on ...
--📫 youtube: Beliz Yazici
+🙋‍♀️ I'm @belizyazici <br>
+🌱 I’m currently learning Python <br>
+👯 I’m looking to collaborate on ... <br>
+📫 How to reach me:Linkedin link down below my bio <br>
+▶Youtube: Beliz Yazici
 
 
 

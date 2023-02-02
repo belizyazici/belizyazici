@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+-🙋‍♀️ I'm @belizyazici
+-🌱 I’m currently learning Python
+-👯 I’m looking to collaborate on ...
+-📫 youtube: Beliz Yazici
+
+
+
 <!--
 **belizyazici/belizyazici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

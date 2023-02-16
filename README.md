@@ -31,7 +31,7 @@
 </p>
 
 
-**📫 How to Reach me:**
+**How to Reach me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/beliz-yaz%C4%B1c%C4%B1-218bb9221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beliz-yaz%C4%B1c%C4%B1-218bb9221/" height="30" width="40" /></a> </p>
 <br>

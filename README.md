@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belizyazici&label=Profile%20views&color=0e75b6&style=flat" alt="belizyazici" /> </p>
 
-- 🌱 I’m currently learning **Python** <br>
+- 🌱 I’m currently learning **C++** and **Kotlin** <br>
 - 👯 I’m looking to collaborate on .. <br>
 - 🔭 I’m interested in learning languages <br>
 
@@ -20,7 +20,9 @@
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="cplusplus" width="40" height="40"/> </a>  
 </p>
+
 
 **Tools:**
 <p align="left">
@@ -31,7 +33,7 @@
 </p>
 
 
-**How to Reach me:**
+**How to Reach Me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/beliz-yaz%C4%B1c%C4%B1-218bb9221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beliz-yaz%C4%B1c%C4%B1-218bb9221/" height="30" width="40" /></a> </p>
 <br>

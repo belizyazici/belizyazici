@@ -11,9 +11,9 @@
 - 👯 I’m looking to collaborate on .. <br>
 - 🔭 I’m interested in **game development** <br>
 - ⚡ Fun fact: I like learning language
+- 📫 <a href="https://belizyazici.github.io" target="_blank" rel="noreferrer" style="color: #8e44ad;">My Portfolio Website</a>
 
-
-
+ 
 <br>
 
 
@@ -48,7 +48,9 @@
 
 **How to Reach Me:**
 <p align="left">
-<a href="https://www.linkedin.com/in/beliz-yaz%C4%B1c%C4%B1-218bb9221/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="beliz-yaz%C4%B1c%C4%B1-218bb9221/" height="40" width="40" /></a> </p>
+<a href="https://www.linkedin.com/in/beliz-yaz%C4%B1c%C4%B1-218bb9221/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="beliz-yaz%C4%B1c%C4%B1-218bb9221/" height="40" width="40" /></a> 
+<a href="https://www.behance.net/belizyazicii" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/behance.svg" alt="belizyazicii" height="40" width="40" /></a> 
+</p>
 <br>
 
 ![Beliz's GitHub stats](https://github-readme-stats.vercel.app/api?username=belizyazici&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  ![Beliz's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=belizyazici&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact) 

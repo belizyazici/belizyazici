@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belizyazici&label=Profile%20views&color=0e75b6&style=flat" alt="belizyazici" /> </p>
 
-- 🌱 I’m currently learning **C#** and **Unity** <br>
+- 🌱 I’m currently learning **data science** concepts <br>
 - 👯 I’m looking to collaborate on .. <br>
-- 🔭 I’m interested in **game development** <br>
+- 🔭 I’m interested in **game development** and **data science**<br>
 - ⚡ Fun fact: I like learning language
 - 📫 <a href="https://belizyazici.github.io" target="_blank" rel="noreferrer" style="color: #8e44ad;">My Portfolio Website</a>
 
@@ -23,7 +23,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="cplusplus" width="40" height="40"/> </a>  
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/kotlin/kotlin.svg" alt="kotlin" width="40" height="40"/></a> 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.svg" alt="csharp" width="40" height="40"/> </a>    
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.svg" alt="csharp" width="40" height="40"/> </a> 
 </p>
 
 
@@ -46,10 +46,12 @@
 <a target="blank"><img align="center" src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" alt="German" height="30" width="40" /></a> </p>
 
 
-**How to Reach Me:**
+**Social Accounts and Portfolio:**
 <p align="left">
 <a href="https://www.linkedin.com/in/beliz-yaz%C4%B1c%C4%B1-218bb9221/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="beliz-yaz%C4%B1c%C4%B1-218bb9221/" height="40" width="40" /></a> 
-<a href="https://www.behance.net/belizyazicii" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/behance.svg" alt="belizyazicii" height="40" width="40" /></a> 
+ &nbsp;
+<a href="https://www.behance.net/belizyazicii" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/behance.svg" alt="belizyazicii" height="40" width="40" /></a>
+<a href="https://www.kaggle.com/belizyazici" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="belizyazici" height="30" width="40" /></a> 
 </p>
 <br>
 

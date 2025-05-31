@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belizyazici&label=Profile%20views&color=0e75b6&style=flat" alt="belizyazici" /> </p>
 
 - 🌱 I’m currently learning **data science** concepts <br>
-- 👯 I’m looking to collaborate on .. <br>
 - 🔭 I’m interested in **game development** and **data science**<br>
 - ⚡ Fun fact: I like learning language
 - 📫 <a href="https://belizyazici.github.io" target="_blank" rel="noreferrer" style="color: #8e44ad;">My Portfolio Website</a>
@@ -24,6 +23,7 @@
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="cplusplus" width="40" height="40"/> </a>  
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/kotlin/kotlin.svg" alt="kotlin" width="40" height="40"/></a> 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.svg" alt="csharp" width="40" height="40"/> </a> 
+ <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> 
 </p>
 
 
@@ -35,6 +35,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://github.com/ziyucao/android-studio-big-sur-icon/blob/master/preview-icon.png" alt="androidStudio" width="45" height="45"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/unity.svg" alt="unity" width="40" height="40"/> </a>
+ <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a>
 </p>
 
 

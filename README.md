@@ -1,14 +1,13 @@
 <h1 align="center">Hi everyone👋, I am Beliz Yazıcı</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2f80ed&center=true&vCenter=true&width=999&lines=Welcome+to+My+Profile!+I+am+Software+Engineering+student+at+Izmir+University+of+Economics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2f80ed&center=true&vCenter=true&width=999&lines=Welcome+to+My+Profile!+I+am+a+Junior+Software+Engineer+)](https://git.io/typing-svg)
 
 
 <img align="right" alt="Gamer Room: Cyberpunk, ExceptRea" width="500" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belizyazici&label=Profile%20views&color=0e75b6&style=flat" alt="belizyazici" /> </p>
 
-- 🌱 I’m currently learning **data science** concepts <br>
-- 🔭 I’m interested in **game development** and **data science**<br>
+- 🌱 I’m currently improving myself in **data analysis** and **data science** concepts <br>
 - ⚡ Fun fact: I like learning language
 - 📫 <a href="https://belizyazici.github.io" target="_blank" rel="noreferrer" style="color: #8e44ad;">My Portfolio Website</a>
 

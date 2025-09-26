@@ -33,8 +33,11 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/intellij-idea.svg" alt="intellij" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://github.com/ziyucao/android-studio-big-sur-icon/blob/master/preview-icon.png" alt="androidStudio" width="45" height="45"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/unity.svg" alt="unity" width="40" height="40"/> </a>
- <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a>
+ <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="45" height="45"/> </a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/unity.svg" alt="unity" width="40" height="40"/> </a> &nbsp;
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="msql" width="60" height="50"/> </a>
+ 
 </p>
 
 
@@ -52,6 +55,7 @@
  &nbsp;
 <a href="https://www.behance.net/belizyazicii" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/behance.svg" alt="belizyazicii" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/belizyazici" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="belizyazici" height="30" width="40" /></a> 
+<a href="https://belizyazici.github.io" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="belizyazici" height="40" width="40" /></a> 
 </p>
 <br>
 

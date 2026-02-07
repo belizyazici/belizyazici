@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belizyazici&label=Profile%20views&color=0e75b6&style=flat" alt="belizyazici" /> </p>
 
-- 🌱 I’m currently improving myself in **data analysis** and **data science** concepts <br>
-- ⚡ Fun fact: I like learning language
-- 📫 <a href="https://belizyazici.github.io" target="_blank" rel="noreferrer" style="color: #8e44ad;">My Portfolio Website</a>
+🌱 I’m currently improving myself in **data analysis** and **data science** concepts <br>
+⚡ Fun fact: I like learning languages <br>
+📫 <a href="https://belizyazici.github.io" target="_blank" rel="noreferrer" style="color: #8e44ad;">My Portfolio Website</a>
 
  
 <br>
@@ -39,8 +39,11 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="msql" width="60" height="50"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/> </a>
+ </p>
  
-</p>
+**Frameworks & Libraries:**
+
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
 
 **Languages I Know & I Am Learning:**
@@ -62,6 +65,16 @@
 <br>
 
 ![Beliz's GitHub stats](https://github-readme-stats.vercel.app/api?username=belizyazici&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  ![Beliz's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=belizyazici&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact) 
+
+![](https://github-readme-stats.vercel.app/api?username=belizyazici&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=belizyazici&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=belizyazici&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!--![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=belizyazici&radius=16&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&area=true&order=5" height="300" alt="activity-graph" />
+
 
 <!--
 ![Beliz's GitHub stats](https://github-readme-stats.vercel.app/api?username=belizyazici&show_icons=true&theme=tokyonight)

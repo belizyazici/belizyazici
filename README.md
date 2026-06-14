@@ -67,11 +67,11 @@
 </p>
 <br>
 
-![Beliz's GitHub stats](https://github-readme-stats.vercel.app/api?username=belizyazici&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  ![Beliz's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=belizyazici&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact) 
+<!--![Beliz's GitHub stats](https://github-readme-stats.vercel.app/api?username=belizyazici&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  ![Beliz's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=belizyazici&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact) -->
 
-![](https://github-readme-stats.vercel.app/api?username=belizyazici&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=belizyazici&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=belizyazici&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=belizyazici&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=false&include_all_commits=true&count_private=true) 
+![](https://nirzak-streak-stats.vercel.app/?user=belizyazici&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=belizyazici&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
